@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAPAAAAAPAA8A8AAADw/w/wAAAAAPARD/AAAP8A8B//8AD/DwDwEfH//w8AAPAf8fAADwAAAB//8AD/AAAAH/HwAPD/AAD///AAAAAAAPAP8A8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerAsset"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTEwMDAxMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwZmZmZmZmMDAwMDAwMDBmMDExMTFmMTBmMDAwMDAwZjBmMWYxMTEwZjAwMDAwMGYwMWYxMWYxMGYwZjAwZjAwZmYwZmZmZjAwMGYwMDAwZmYwMGYwMDBmMDBmMDAwMDAwZmZmMDAwZmYwMDAwMDAwMDAwZmZmZjAwMDAwMDAwZjAwZmYwMGYwMDAwMDAwMDBmZmZmZjBmMDAwMDAwZjAwZjAwMDAwZjAwMGYwMGYwMGYwMDAwZjBmZjBmMDAwMDAwMDAwMDAwZmYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMGZmZmZmZjAwMDAwMDAwZjAxMTExZjEwZjAwMDAwMGYwZjFmMTExMGYwMDAwMDBmMDFmMTFmMTBmMGYwMGYwMGZmMGZmZmYwMDBmMDAwMGZmMDBmMDAwZjAwZjAwMDAwMGZmZjAwMGZmMDAwMDAwMDAwMGZmZmYwMDAwMDAwMDAwMDBmMDBmMDAwMDAwMDAwMDAwZjAwZjAwMDAwMDAwMDBmMGZmMGYwMDAwMDAwMDAwZjAwMGZmMDAwMDAwMDBmMGZmMDBmMGZmMDAwMDAwMDAwMDAwMDAwMDBmMDAwMDAwMDAwMDAwMDAwMDAw",
+        "displayName": "PlayerWalkLeft"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
