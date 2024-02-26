@@ -5,22 +5,14 @@ namespace myImages {
         switch(helpers.stringTrim(name)) {
             case "image1":
             case "playerAsset":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . f f f f f . . . . . . . 
-. . . . f 1 f 1 f f f f . . . . 
-. . . f f 1 1 1 1 1 1 f f . . . 
-. . . . f f f 1 1 f 1 f f . . . 
-. . . . . . f f f f f f . . . . 
-. . . . . . . f . . . . . . . . 
-. . f f f f f f f f f f f . . . 
-. . f f . . . f . . . . f . . . 
-. . . . . . . f . . . . . . . . 
-. . . . . . f f f f . . . . . . 
-. . . . . . f . . f f . . . . . 
-. . . . . f f . . . f . . . . . 
-. . . . . f . . . . f . . . . . 
+f f f f f f f f 
+f b b b b b b f 
+f b 1 b b 1 b f 
+f b b b b b b f 
+f f f f f f f f 
+. c b b b b c . 
+f c b b b b c f 
+. c . . . . c . 
 `;
         }
         return null;
